@@ -1,5 +1,4 @@
 # AmandaBenton.GitHub.io
-<!doctype html>
 <html>
 <body>
 <h1> Hello world! </h1>
